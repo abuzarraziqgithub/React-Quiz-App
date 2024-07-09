@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { quiz } from "../assets/data/questions";
-import "./quiz.css";
+import "../Components/Style/quiz.css";
 function Quiz() {
   //* We defined 3 states:
   /*
