@@ -10,7 +10,7 @@ body {
 .quiz-container {
   max-width: 500px;
   min-width: 250px;
-  background: #ffdb00;
+  background: #fdde55;
   border-radius: 5px;
   margin-top: 100px;
   padding: 30px 60px;
@@ -90,3 +90,10 @@ result h3 {
   color: #800080;
   font-size: 22px;
 }
+
+.heading-gif {
+  display: flex;
+  justify-content: end;
+}
+
+.heading-gif;
