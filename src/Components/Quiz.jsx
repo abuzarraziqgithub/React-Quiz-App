@@ -56,7 +56,7 @@ function Quiz() {
       <div className="quiz-container">
         <div className="heading-gif">
           <span className="gif">
-            <img src="./public/icons2.svg" alt="" />
+            <img src="./public/icons1.svg" alt="" />
           </span>
         </div>
         {!showResult ? (
